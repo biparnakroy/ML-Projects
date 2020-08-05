@@ -5,4 +5,4 @@
 
 # Model sumary
 
-![img](src/Screenshot_2020-08-05_JupyterLabs2.png)
+![img](src/Screenshot_2020-08-05_JupyterLab2.png)
