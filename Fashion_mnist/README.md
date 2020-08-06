@@ -5,3 +5,7 @@
 ![img](src/Screenshot_2020-08-05JupyterLab1.png)
 
 ### Accuracy : 79%
+
+# Confusion Matrix
+
+![img](src/cm.png)
