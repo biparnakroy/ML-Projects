@@ -12,3 +12,4 @@ Also I like the way jupyter notebooks look so....
 - Maleria Parasite Detection Using CNN (Tensorflow 2)
 - Mnist 2D ConvNet 
 - Bank customer review prediction ANN
+- CIFAR10 Dataset Image Classification 
