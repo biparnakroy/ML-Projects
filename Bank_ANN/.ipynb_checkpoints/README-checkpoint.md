@@ -1,6 +1,6 @@
-# ANN TO PREDICT BANKK CUSTOMER REVIEWS
+# ANN TO PREDICT BANK CUSTOMER REVIEWS
 
-## Accuracy : 85.75%
+#### Accuracy : 85.75%
 
 ## Confusion Matrix
 
