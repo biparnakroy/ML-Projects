@@ -8,6 +8,7 @@ Also I like the way jupyter notebooks look so....
 ## So yes I am reinventing the wheel
 
 # Contents
-	* Digit Recognition (MNIST Dataset)
-	* Maleria Parasite Detection Using CNN (Tensorflow 2)
-	* Mnist 2D ConvNet 
+- Digit Recognition (MNIST Dataset)
+- Maleria Parasite Detection Using CNN (Tensorflow 2)
+- Mnist 2D ConvNet 
+- Bank customer review prediction ANN
