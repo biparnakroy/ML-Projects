@@ -17,6 +17,6 @@
  
  **Accuracy= 74%**
  
- ![img](src/mertics.png)
+ ![img](src/metrics.png)
  
  ![img](src/cm1.png)
