@@ -10,7 +10,7 @@
 
 # Confusion matrix
 
-![img](src/cm.pmg)
+![img](src/cm.png)
 
 # Dataset
 
