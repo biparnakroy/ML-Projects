@@ -16,3 +16,4 @@ Also I like the way jupyter notebooks look so....
 - Kaggle cats & dogs classification with CNN
 - VGG 16 classifier
 - Breast Cancer Detection with CNN
+- Imagenet Classification Using Resnet50
