@@ -13,3 +13,4 @@ Also I like the way jupyter notebooks look so....
 - Mnist 2D ConvNet 
 - Bank customer review prediction ANN
 - CIFAR10 Dataset Image Classification 
+- Kaggle cats & dogs classification
