@@ -3,7 +3,7 @@
 ## Dataset
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-![img][src/data.png)
+![img](src/data.png)
 
 ## Model without Maxpool
  ![img](src/model.png)
