@@ -19,3 +19,8 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 ## loss and accuracy of the model with maxpool
 
 ![img](src/acc2.png)
+
+## ANN MODEL
+Accuracy: train =99% test=93.7%
+
+![img](src/ann.png)
