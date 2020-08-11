@@ -1,6 +1,8 @@
 # Human Activity Tracker Using CNN
 
 ## Data
+https://www.cis.fordham.edu/wisdm/dataset.php
+
 ![img](src/data.png)
 
 ## Model Arch
