@@ -11,4 +11,4 @@
 ![img](src/acc.png)
 
 ## Confusion matrix
-![img](src/cm.png)
+![img](src/cond.png)
