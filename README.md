@@ -17,3 +17,5 @@ Also I like the way jupyter notebooks look so....
 - VGG 16 classifier
 - Breast Cancer Detection with CNN
 - Imagenet Classification Using Resnet50
+- Movie Genre Predictor CNN
+- Credit Card Fraud CNN
