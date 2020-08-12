@@ -19,3 +19,4 @@ Also I like the way jupyter notebooks look so....
 - Imagenet Classification Using Resnet50
 - Movie Genre Predictor CNN
 - Credit Card Fraud CNN
+- Human Activity Recognition using CNN 
