@@ -20,3 +20,5 @@ Also I like the way jupyter notebooks look so....
 - Movie Genre Predictor CNN
 - Credit Card Fraud CNN
 - Human Activity Recognition using CNN 
+- Linear Regression Google stock price presiction
+- Linear Regression From Scratch
