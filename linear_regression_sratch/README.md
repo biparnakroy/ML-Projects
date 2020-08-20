@@ -11,3 +11,7 @@ ros=0.51
 ## Plots and Line of best fit
 
 ![img](graph.png)
+
+## To do's
+
+Implementing random error component
