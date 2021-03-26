@@ -1,6 +1,6 @@
 # VGG 16 Image classificition 
 
-## dataset : Imgaenet
+## dataset : Imagenet
 
 ## Architechture
 
